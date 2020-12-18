@@ -2,7 +2,7 @@
 
 import click
 import re
-from txt_colors import txt
+from utils.common import txt
 import musescore_parser as MP
 import jp_to_hr
 

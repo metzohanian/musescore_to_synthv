@@ -41,6 +41,7 @@ class txt:
     CWHITE2 = '\33[97m'
 
     CTAB = '  '
+    TAB = '  '
 
 def dbg():
     file_name = inspect.stack()[1][1]

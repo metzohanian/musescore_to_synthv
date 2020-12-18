@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 import xml.etree.ElementTree as ET
-from txt_colors import txt
+from utils.common import txt
 
 set_staff_start_cb = None
 set_staff_end_cb = None
